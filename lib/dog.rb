@@ -13,6 +13,3 @@ def Dog(dog_name)
     puts "woof!"
   end
 end
-
-fido=Dog.new
-fido
